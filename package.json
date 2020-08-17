@@ -11,5 +11,8 @@
     "url": " \t"
   },
   "author": "mNalon",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
 }
