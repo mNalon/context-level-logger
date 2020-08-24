@@ -2,8 +2,8 @@
   "name": "context-level-logger",
   "version": "0.1.0",
   "description": "A module to enforce a pattern to log with context and level information ",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/lib/index.js",
+  "types": "dist/lib/index.d.ts",
   "scripts": {
     "build": "tsc",
     "lint": "eslint lib/** test/**",
